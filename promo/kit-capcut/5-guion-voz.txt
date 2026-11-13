@@ -1,10 +1,11 @@
 GUION DE VOZ - MORELES CAPS (pegar en "Texto a voz" de CapCut)
 Cada línea empieza en el segundo indicado.
 
-0:00  ¡No compres playeras sin antes ver esto!
+0:00  ¡Si eres de Irapuato, no compres playeras sin antes ver esto!
 0:04  Tenemos Hellstar, True Religion, Boss, Off White y más.
 0:09  Calidad que se nota, y diseños que destacan.
 0:14  Checa cada detalle, y agárrate con el precio.
-0:20  ¡Todas, a solo doscientos cincuenta pesos!
+0:20  [EFECTO "FAHHH"]  (archivo 6-efecto-fahhh.wav, o búscalo en sonidos de CapCut)
+0:21  ¡Todas, a solo doscientos cincuenta pesos!
 0:24  ¡Mira todos los diseños que tenemos disponibles!
-0:28  ¿Cuál te gustó? Mándanos un DM, ¡se están acabando!
+0:28  ¡Somos de Irapuato! ¿Cuál te gustó? Mándanos un DM.
